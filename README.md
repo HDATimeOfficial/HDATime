@@ -12,8 +12,12 @@ The official project logo is located at:
 ---
 
 ## 📁 Documentation
-All project documents (Whitepaper, Roadmap, Tokenomics, One-Pager, Pitch Deck) are available in the `/docs` folder:
-`/docs/`
+Whitepaper.pdf
+Roadmap.pdf
+Tokenomics.pdf
+Onepager.pdf
+Pitchdeck.pdf
+
 
 ---
 
