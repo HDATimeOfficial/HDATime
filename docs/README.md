@@ -1,12 +1,7 @@
-# HDATime Documentation
+ Documentación HDATime
 
-This folder contains the official documentation for the HDATime (HDAT) project, including:
-
-- Whitepaper  
-- Tokenomics  
-- Roadmap  
-- One-pager  
-- Pitch deck  
-- Technical documentation  
-
-All documents are part of the official HDATime project structure.
+- [Whitepaper](docs/whitepaper.pdf)
+- [Roadmap](docs/roadmap.pdf)
+- [Tokenomics](docs/tokenomics.pdf)
+- [Pitch Deck](docs/pitchdeck.pdf)
+- [One Pager](docs/onepager.pdf)
