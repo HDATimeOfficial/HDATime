@@ -1,1 +1,0 @@
-HDATime Whitepaper documentation
